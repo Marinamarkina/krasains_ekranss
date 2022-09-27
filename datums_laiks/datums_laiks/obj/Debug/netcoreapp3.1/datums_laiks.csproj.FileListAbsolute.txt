@@ -1,0 +1,16 @@
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\bin\Debug\netcoreapp3.1\datums_laiks.exe
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\bin\Debug\netcoreapp3.1\datums_laiks.deps.json
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\bin\Debug\netcoreapp3.1\datums_laiks.runtimeconfig.json
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\bin\Debug\netcoreapp3.1\datums_laiks.runtimeconfig.dev.json
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\bin\Debug\netcoreapp3.1\datums_laiks.dll
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\bin\Debug\netcoreapp3.1\datums_laiks.pdb
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\obj\Debug\netcoreapp3.1\datums_laiks.csproj.AssemblyReference.cache
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\obj\Debug\netcoreapp3.1\datums_laiks.Form1.resources
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\obj\Debug\netcoreapp3.1\datums_laiks.csproj.GenerateResource.cache
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\obj\Debug\netcoreapp3.1\datums_laiks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\obj\Debug\netcoreapp3.1\datums_laiks.AssemblyInfoInputs.cache
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\obj\Debug\netcoreapp3.1\datums_laiks.AssemblyInfo.cs
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\obj\Debug\netcoreapp3.1\datums_laiks.csproj.CoreCompileInputs.cache
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\obj\Debug\netcoreapp3.1\datums_laiks.dll
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\obj\Debug\netcoreapp3.1\datums_laiks.pdb
+C:\Users\Irina\source\repos\datums_laiks\datums_laiks\obj\Debug\netcoreapp3.1\datums_laiks.genruntimeconfig.cache
