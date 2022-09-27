@@ -1,0 +1,10 @@
+C:\Users\Irina\source\repos\balts_melns\balts_melns\bin\Debug\balts_melns.exe.config
+C:\Users\Irina\source\repos\balts_melns\balts_melns\bin\Debug\balts_melns.exe
+C:\Users\Irina\source\repos\balts_melns\balts_melns\bin\Debug\balts_melns.pdb
+C:\Users\Irina\source\repos\balts_melns\balts_melns\obj\Debug\balts_melns.csproj.AssemblyReference.cache
+C:\Users\Irina\source\repos\balts_melns\balts_melns\obj\Debug\balts_melns.Properties.Resources.resources
+C:\Users\Irina\source\repos\balts_melns\balts_melns\obj\Debug\balts_melns.csproj.GenerateResource.cache
+C:\Users\Irina\source\repos\balts_melns\balts_melns\obj\Debug\balts_melns.csproj.CoreCompileInputs.cache
+C:\Users\Irina\source\repos\balts_melns\balts_melns\obj\Debug\balts_melns.exe
+C:\Users\Irina\source\repos\balts_melns\balts_melns\obj\Debug\balts_melns.pdb
+C:\Users\Irina\source\repos\balts_melns\balts_melns\obj\Debug\balts_melns.Form1.resources
